@@ -5,6 +5,6 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore bundler config.
-/build
-/dist
+/.build
+/.dist
 /__pycache__
